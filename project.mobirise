@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ADNAN",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -608,7 +608,7 @@
           },
           "title": "DOWNLOAD MY RESUME",
           "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"portfolio.pdf\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://drive.google.com/file/d/0B0l5heruvLDYWURXWnJNY2VnazQ/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
           "_tags": [
             "Theme"
           ],
@@ -2482,7 +2482,7 @@
             "overlayOpacity": 0.5
           },
           "title": "The Solution",
-          "caption": "The solution to fight the problem is to redefine the approach of using&nbsp;",
+          "caption": "The solution to fight the problem is to redefine the approach of using the technologies, I not being a Neo-Luddist am surely not saying to stop usage of your search history to analyze your interests. But have another approah to see this issue, seeing rise of IoT",
           "_tags": [
             "Theme"
           ],
