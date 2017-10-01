@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ADNAN",
-    "currentPage": "gdgpsmun.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -608,7 +608,7 @@
           },
           "title": "DOWNLOAD MY RESUME",
           "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://drive.google.com/file/d/0B0l5heruvLDYNmNRemlZZHRNMkk/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://drive.google.com/file/d/0B0l5heruvLDYQ0JTWlNDY1dfT00/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
           "_tags": [
             "Theme"
           ],
