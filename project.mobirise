@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ADNAN",
-    "currentPage": "about.html",
+    "currentPage": "gdgpsmun.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1528,7 +1528,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": "2",
@@ -1568,9 +1568,9 @@
               "size": 250
             }
           },
-          "title": "COVER OF OFFICIAL BOOKLET",
-          "text": "The official booklet has detailed information about committees and their respective agendas in quite detail, it's cover is designed by me.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
+          "title": "THE OFFICIAL BOOKLET",
+          "text": "The official booklet has detailed information about MUN, its committees and their respective agendas in quite detail, it's designed by me.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://drive.google.com/file/d/0B0l5heruvLDYUFVzRVMwVi1Ec2s/view\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
           "_tags": [
             "Theme"
           ],
