@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ADNAN",
-    "currentPage": "about.html",
+    "currentPage": "gdgpsmun.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1570,7 +1570,7 @@
           },
           "title": "THE OFFICIAL BOOKLET",
           "text": "The official booklet has detailed information about MUN, its committees and their respective agendas in quite detail, it's designed by me.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://drive.google.com/file/d/0B0l5heruvLDYUFVzRVMwVi1Ec2s/view\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://drive.google.com/file/d/0B0l5heruvLDYd05IOXJoa2dVYXc/view\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
           "_tags": [
             "Theme"
           ],
