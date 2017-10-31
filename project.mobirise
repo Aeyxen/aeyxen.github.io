@@ -107,10 +107,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.85",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -260,10 +260,10 @@
               "font-family": "'Exo', sans-serif"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -301,10 +301,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.85",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -743,10 +743,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.85",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -1110,10 +1110,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.85",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -2020,10 +2020,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.85",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -2447,10 +2447,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.85",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -3122,10 +3122,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.85",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -3619,10 +3619,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.85",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -3980,10 +3980,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.85",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -4250,10 +4250,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.85",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -4740,10 +4740,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.85",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -5339,10 +5339,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.85",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -6352,10 +6352,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": "1.05",
+            "fontSize": "0.85",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",

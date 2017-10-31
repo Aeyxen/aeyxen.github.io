@@ -506,11 +506,11 @@ h6,
   font-family: 'Exo', sans-serif;
 }
 #menu-e .link {
-  font-size: 1.05rem;
+  font-size: 0.85rem;
 }
 #menu-e .dropdown-item,
 #menu-e .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 0.921rem;
 }
 #menu-e .link:hover,
 #menu-e .dropdown-item:hover,
