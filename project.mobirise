@@ -61,7 +61,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i",
+              "font-family": "'Exo', sans-serif"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -109,7 +111,11 @@
             "transparent": true,
             "bgColor": "#2c3e50",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "css": "'Exo', sans-serif",
+              "name": "Exo",
+              "url": "https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -130,7 +136,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
@@ -297,7 +303,11 @@
             "transparent": true,
             "bgColor": "#2c3e50",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "css": "'Exo', sans-serif",
+              "name": "Exo",
+              "url": "https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -318,7 +328,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_params": {
@@ -735,7 +745,11 @@
             "transparent": true,
             "bgColor": "#2c3e50",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "css": "'Exo', sans-serif",
+              "name": "Exo",
+              "url": "https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -756,7 +770,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-q"
         },
         {
@@ -1098,7 +1112,11 @@
             "transparent": true,
             "bgColor": "#2c3e50",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "css": "'Exo', sans-serif",
+              "name": "Exo",
+              "url": "https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -1119,7 +1137,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-1z"
         },
         {
@@ -2004,7 +2022,11 @@
             "transparent": true,
             "bgColor": "#2c3e50",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "css": "'Exo', sans-serif",
+              "name": "Exo",
+              "url": "https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -2025,7 +2047,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-2k"
         },
         {
@@ -2427,7 +2449,11 @@
             "transparent": true,
             "bgColor": "#2c3e50",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "css": "'Exo', sans-serif",
+              "name": "Exo",
+              "url": "https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -2448,7 +2474,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-1e"
         },
         {
@@ -3098,7 +3124,11 @@
             "transparent": true,
             "bgColor": "#2c3e50",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "css": "'Exo', sans-serif",
+              "name": "Exo",
+              "url": "https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -3119,7 +3149,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-32"
         },
         {
@@ -3591,7 +3621,11 @@
             "transparent": true,
             "bgColor": "#2c3e50",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "css": "'Exo', sans-serif",
+              "name": "Exo",
+              "url": "https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -3612,7 +3646,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-42"
         },
         {
@@ -3948,7 +3982,11 @@
             "transparent": true,
             "bgColor": "#2c3e50",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "css": "'Exo', sans-serif",
+              "name": "Exo",
+              "url": "https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -3969,7 +4007,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-4j"
         },
         {
@@ -4214,7 +4252,11 @@
             "transparent": true,
             "bgColor": "#2c3e50",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "css": "'Exo', sans-serif",
+              "name": "Exo",
+              "url": "https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -4235,7 +4277,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-4o"
         },
         {
@@ -4700,7 +4742,11 @@
             "transparent": true,
             "bgColor": "#2c3e50",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "css": "'Exo', sans-serif",
+              "name": "Exo",
+              "url": "https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -4721,7 +4767,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-51"
         },
         {
@@ -5295,7 +5341,11 @@
             "transparent": true,
             "bgColor": "#2c3e50",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "css": "'Exo', sans-serif",
+              "name": "Exo",
+              "url": "https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -5316,7 +5366,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-61"
         },
         {
@@ -6304,7 +6354,11 @@
             "transparent": true,
             "bgColor": "#2c3e50",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "css": "'Exo', sans-serif",
+              "name": "Exo",
+              "url": "https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -6325,7 +6379,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewsSense.html\">NewsSense</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gdgpsmun.html\" aria-expanded=\"false\">GDGPSMUN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ColorNameGame.html\" aria-expanded=\"false\">Color Name Game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SocialIssues.html\" aria-expanded=\"false\">Social Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EmergencyApp.html\" aria-expanded=\"false\">Emergency App</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Music.html\" aria-expanded=\"false\">Music</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"BLOG.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact me.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-6s"
         },
         {
