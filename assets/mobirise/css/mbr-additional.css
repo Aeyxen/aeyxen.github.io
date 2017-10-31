@@ -486,6 +486,7 @@ h6,
 #msg-box3-6 p {
   color: #000;
 }
+
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -502,13 +503,14 @@ h6,
 #menu-e .link,
 #menu-e .dropdown-item {
   color: #ffffff;
+  font-family: 'Exo', sans-serif;
 }
 #menu-e .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #menu-e .dropdown-item,
 #menu-e .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #menu-e .link:hover,
 #menu-e .dropdown-item:hover,

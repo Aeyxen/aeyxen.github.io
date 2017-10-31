@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ADNAN",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -107,10 +107,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": 0.75,
+            "fontSize": "1.05",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -255,13 +255,15 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Exo:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i",
+              "font-family": "'Exo', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -299,10 +301,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": 0.75,
+            "fontSize": "1.05",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -585,7 +587,7 @@
             "overlayOpacity": 0.5
           },
           "title": "MY INSPIRATIONS",
-          "caption": "<p>There are a lot of people who inspire me to become a better designer as well as a human being. Paul Rand and Steve Jobs are people whom I admire a lot. I am also highly influenced by the idea of liberalism in social (extremely) as well as economic sense (moderately), I also like some aspects of communism and socialism (obviously not there economic policies). Bulleh Shah, a Sufi mystic and a rationalist is also a source of inspiration for me, he was fearless in speaking his mind. Not only famous people but people near me like my parents, classmates and friends inspire me. It will not be wrong to say that each and every person about whom I know has left some impact on me</p>"
+          "caption": "<p>There are a lot of people who inspire me to become a better designer as well as a human being. Paul Rand and Steve Jobs are people whom I admire a lot. Bulleh Shah, a Sufi mystic and a rationalist is also a source of inspiration for me, he was fearless in speaking his mind. Not only famous people but people near me like my parents, classmates and friends inspire me. It will not be wrong to say that each and every person about whom I know has left some impact on me.</p>"
         },
         {
           "_styles": {
@@ -741,10 +743,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": 0.75,
+            "fontSize": "1.05",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -1108,10 +1110,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": 0.75,
+            "fontSize": "1.05",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -2018,10 +2020,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": 0.75,
+            "fontSize": "1.05",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -2445,10 +2447,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": 0.75,
+            "fontSize": "1.05",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -3120,10 +3122,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": 0.75,
+            "fontSize": "1.05",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -3617,10 +3619,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": 0.75,
+            "fontSize": "1.05",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -3978,10 +3980,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": 0.75,
+            "fontSize": "1.05",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -4248,10 +4250,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": 0.75,
+            "fontSize": "1.05",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -4738,10 +4740,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": 0.75,
+            "fontSize": "1.05",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -5337,10 +5339,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": 0.75,
+            "fontSize": "1.05",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
@@ -6350,10 +6352,10 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": 0.75,
+            "fontSize": "1.05",
             "fontName": {
               "css": "'Exo', sans-serif",
               "name": "Exo",
